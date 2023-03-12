@@ -22,20 +22,3 @@ Student2.RA = "8759032"
 Student2.curso = "Matemática"
 
 console.log(Student1, Student2)
-
-const lista = ["Cálculo III", "Geometria analítica", "Físico-química", "Estatística"]
-
-const mt = [
-    [1, 2, 3],
-    [4, 5, 6],
-    [7, 8, 9]
-]
-
-console.log(lista[0])
-console.log[mt[1][1]]
-
-mt.forEach(function(item){
-    item.forEach(function(valor){
-        console.log(valor)
-    })
-})
